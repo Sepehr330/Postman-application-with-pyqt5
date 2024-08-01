@@ -1,0 +1,3 @@
+GET,https://reqres.in/api/users
+POST,https://reqres.in/api/users
+PATCH,https://reqres.in/api/users
